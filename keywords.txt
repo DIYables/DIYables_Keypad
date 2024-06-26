@@ -1,0 +1,25 @@
+#######################################
+# Syntax Coloring Map For DIYables_Keypad
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+DIYables_Keypad	KEYWORD1
+keypad	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+makeKeymap	KEYWORD2
+getKey	KEYWORD2
+setDebounceTime	KEYWORD2
+
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+
+
