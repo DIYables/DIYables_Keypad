@@ -45,9 +45,9 @@ Tested Hardware
 | [DIYables MEGA2560 R3 *(works like Arduino Mega 2560 Rev3)*](https://diyables.io/atmega2560-board) |   ✅   |
 | Arduino Due             |   ✅    |
 | Arduino Giga            |   ✅    |
+| [DIYables ESP32 Development Board](https://diyables.io/esp32-board) |   ✅   |
 | [DIYables ESP32 S3, Uno-form factor](https://diyables.io/products/esp32-s3-development-board-with-esp32-s3-wroom-1-n16r8-wifi-bluetooth-uno-compatible-form-factor-works-with-arduino-ide) |   ✅   |
 | Other boards            |   —    |
-
 
 References
 ----------------------------
